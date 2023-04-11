@@ -18,7 +18,6 @@
 	color: orange;
 }
 
-.search--box:hover,
-.search--box:active {
-	border: none;
+.search--box::placeholder {
+	color: #e1dddd;
 }

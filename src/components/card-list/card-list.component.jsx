@@ -7,7 +7,7 @@ const CardList = ({ countries }) => {
 		<div className="card--list">
 			{countries.map((country) => {
 				// console.log(country);
-				return <Card country={country} />;
+				return <Card key={country.altSpellings[0]} country={country} />;
 			})}
 		</div>
 	);

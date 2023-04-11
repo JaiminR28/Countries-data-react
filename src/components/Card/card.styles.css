@@ -25,6 +25,7 @@ article h2 {
 	margin: 0 0 24px 0;
 	font-family: "Bebas Neue", cursive;
 	font-size: 3rem;
+	line-height: 2.8rem;
 	letter-spacing: 0.06em;
 	color: orange;
 	transition: color 0.3s ease-out;
