@@ -12,6 +12,7 @@ html {
 
 body {
 	font-family: "Poppins", sans-serif;
+	background-color: #faf6f6;
 }
 
 .Heading--box {
@@ -40,4 +41,13 @@ body {
 	line-height: 3.6rem;
 	letter-spacing: 1.25px;
 	color: #ffa500;
+}
+
+.Heading--box,
+.App-header {
+	background-color: #fff;
+}
+
+.App-header {
+	margin-bottom: 4rem;
 }
